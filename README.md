@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-# Nischal Malakar
+# I am Nischal Malakar
 ### Passionate IT student with major interest and knowledge in Front-End and Mobile Development. 
 <p>
   <a href="https://twitter.com/nischalbm">
