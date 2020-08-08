@@ -21,4 +21,4 @@ Here are some ideas to get you started:
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/nischalbm?style=social">
   </a>
 </p>
-Thanks for visiting my profile! Let's connect amd contribute together.
+Thanks for visiting my profile! Let's connect and contribute together.
